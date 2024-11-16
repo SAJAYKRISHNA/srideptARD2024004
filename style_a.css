@@ -1,0 +1,88 @@
+
+body{
+    background-color: rgb(182, 182, 182);
+}
+
+
+.board_flex{
+    background: linear-gradient(rgb(1, 77, 77),rgb(255, 255, 255));
+    
+}
+
+.short_links{
+ 
+    background: linear-gradient(white,cyan);
+}
+
+.Nav_Head{
+    padding-top: 20px;
+}
+#text_vazhipadu{
+    font-size: 20px;
+}
+
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+
+  .b-example-vr {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+  }
+
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+
+  .nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+  }
+
+  .nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+
+
+  #nav-contain_ano{
+    
+    background: linear-gradient(rgb(1, 77, 77),rgb(145, 145, 145));
+    
+    width: 100%;
+    
+  }
+
+  #Text_Float{
+    color: black;
+    font-weight: 800;
+    font-size: large;
+  }
+
+  #Email_address{
+    color: rgb(0, 0, 134);
+    font-weight: 600;
+}
