@@ -8,6 +8,11 @@
   
 }
 
+@font-face {
+  font-family: 'SreebalaMLfont';
+  src: url(/fonts/SreebalaML-Regular.ttf);
+}
+
 html,body {
     margin:0;
     padding:0;
