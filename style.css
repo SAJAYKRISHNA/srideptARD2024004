@@ -2,10 +2,18 @@
     background: linear-gradient(rgb(99, 74, 74),rgb(242, 251, 255));
 }
 
+@font-face {
+  font-family: 'Sreebalafont';
+  src: url(/fonts/SreebalaEn-Regular.ttf);
+  
+}
+
 html,body {
     margin:0;
     padding:0;
     overflow-x:hidden;
+    font-family: Sreebalafont !important;
+    
 }
 
 #Email_address{
